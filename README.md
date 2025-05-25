@@ -55,5 +55,5 @@ El portafolio analiza empresas con modelos de negocio complementarios que permit
 
 ## 🔗 Conecta conmigo
 
-Estoy desarrollando mi perfil como analista de datos financieros. Puedes encontrarme en [LinkedIn](https://linkedin.com) o contactarme directamente para colaboraciones o feedback.
-
+Estoy desarrollando mi perfil como analista de datos financieros.
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/juan-pablo-méndez-espino-9513111b8/)
